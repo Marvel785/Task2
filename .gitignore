@@ -1,0 +1,4 @@
+**/*.swp
+**/*.bak
+**/sites-enabled/*
+**/.env
