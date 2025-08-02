@@ -1,4 +1,9 @@
 **/*.swp
 **/*.bak
 **/sites-enabled/*
-**/.env
+**/conf.d/*.bak
+**/pool.d/*.orig
+.env
+*.log
+cache/
+tmp/
